@@ -1,0 +1,1 @@
+acab1c220859532baa2e41ebb43fcd4ef3be6502f126de6a333d60f8a67f2e37  ./target/wasm32-unknown-unknown/release/black.wasm
